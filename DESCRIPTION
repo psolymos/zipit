@@ -9,3 +9,7 @@ Description: Zero-inflated regression analysis
 License: GPL-2
 URL: https://github.com/psolymos/zipit
 BugReports: https://github.com/psolymos/zipit/issues
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+LazyLoad: yes
+LazyData: true
