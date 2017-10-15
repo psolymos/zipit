@@ -1,0 +1,11 @@
+Package: zipit
+Type: Package
+Title: Zero-inflated Regression Analysis
+Version: 0.0-1
+Date: 2017-10-14
+Author: Peter Solymos [aut, cre]
+Maintainer: Peter Solymos <solymos@ualberta.ca>
+Description: Zero-inflated regression analysis
+License: GPL-2
+URL: https://github.com/psolymos/zipit
+BugReports: https://github.com/psolymos/zipit/issues
